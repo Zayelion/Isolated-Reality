@@ -1,0 +1,2 @@
+/* This is a customization for the WP-Supersize plugin. It makes the navivagation buttons still. */
+#prevslide, #nextslide {position: fixed !important; z-index:400;}

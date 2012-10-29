@@ -1,0 +1,18 @@
+/*
+Theme Name: Isolated-Reality
+Theme URI: http://isolatedreality.angelofcode.com/
+Description: Developed in emotional Isolation.
+Author: James Gladney
+Author URI: http://www.angelofcode.com
+Version: 1.0
+Tags: one-column, two-columns, right-sidebar, fixed-width, custom-background, custom-colors, theme-options, threaded-comments
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+@import url('css/bootstrap.css') screen;
+@import url('css/stylesheet.css') screen;
+@import url('css/mobile.css') screen;
+@import url('css/prettify.css') screen;
+@import url('css/wordpressdefaults.css') screen;
+@import url('css/custom.css') screen;
+body{opacity:1 !important;}

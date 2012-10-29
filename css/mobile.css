@@ -1,0 +1,51 @@
+
+
+@media screen and (max-width: 515px) {
+ul,div,article,aside,details,figcaption,figure,footer,header,hgroup,nav,section, form{width:100% !important;
+ float:none !important;
+ clear:both !important;
+ position:relative !important;
+ top:0;
+ left:0;
+ margin:auto auto !important;
+ padding:2px;}
+img {width:auto !important; }
+.subnav, .subnav ul {height:auto; text-align:center;}
+#container div{border:none;}
+#searchform {top:20px; margin-left:20px;}
+#searchform input{padding:5px;}
+body {overflow-x:hidden;}
+.subnav ul{display:block; opacity:1; width:100%;}
+nav ul li:hover ul{display:block;padding:0;opacity:1;height:auto; }
+nav ul li:hover ul li{border:none;float:left;font-size:12px;}
+.subnav li{text-align:center !important; min-height:52px; width:100% !important; font-size:20px;;} 
+ #s{height:25px; text-align:center; width:100%; margin-bottom:5px !important;}
+ .landing h4 {font-size:1.5em}
+.subfooter {height:60px;}
+.sub-menu li {border:none; background:transparent; padding-top:13px;}
+li:hover .sub-menu li {border:none; background:transparent;}
+.sub-menu li:first-child {border:none;}
+.social {height:60px; width:100% !important;}
+.social a {float:left;}
+header h1 {font-size:40px;}
+header .container {padding: 0;}
+##demoenabler {display:none;}
+#navigationpadding{display:none;}
+#ajaxloader {display:none;}
+}
+
+@media screen and (max-width: 770px) {
+.social {width:100%;}
+.subnav nav {width:100%;}
+.slate {width:100%;
+.landing {width:231px; height:350px;}
+#searchform{width:100%;}}
+
+}
+
+@media screen and (max-width: 240px) {
+body *{line-height:1.5em;}
+h1, h2, h3, h4, h5, h6 {font-size:20px;}
+
+
+}
